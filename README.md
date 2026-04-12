@@ -65,7 +65,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/hemantsharma-22v">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://github.com/Hemant-Sharma-22">

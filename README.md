@@ -44,21 +44,18 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemant-Sharma-22&show_icons=true&theme=tokyonight&hide_border=true" />
-</p> -->
+## 📊 Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hemant-Sharma-22&theme=tokyonight&hide_border=true" />
 </p>
 
+<br/>
 
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hemant-Sharma-22&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p> -->
+<!-- 🔥 LEETCODE STATS ADDED HERE -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Hemant22__?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=8" />
+</p>
 
 ---
 
@@ -71,6 +68,9 @@
   <a href="https://github.com/Hemant-Sharma-22">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://leetcode.com/u/Hemant22__/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -81,8 +81,7 @@
   <img src="https://komarev.com/ghpvc/?username=Hemant-Sharma-22&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
 
-
-
+---
 
 <!-- 🔥 FOOTER -->
 <p align="center">

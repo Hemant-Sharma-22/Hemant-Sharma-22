@@ -90,5 +90,5 @@
 
 <!-- 🌊 FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:00F7FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1:6366F1,110:00F7FF&height=120&section=footer" />
 </p>
